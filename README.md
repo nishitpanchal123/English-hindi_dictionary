@@ -1,4 +1,4 @@
-# English-hindi_dictionary
+# English-hindi_dictionary = dictionary to convert words english to hindi
 It is an application designed in Python usingBeautiful soup. It can find the meaning of an English Word from Internet directly to your Terminal
 
 # Installation in Linux
